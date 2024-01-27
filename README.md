@@ -1,6 +1,6 @@
 # Poker Card Game v2
 
-Poker Card Game v2 is an immersive and strategic Java card game designed to captivate players seeking thrilling challenges. Engage in intense rounds against a clever dealer, strategically betting chips and leveraging card values to secure victory. Experience the thrill of the shuffle, the rush of making critical decisions, and the excitement of outplaying the competition in this high-stakes, multi-round showdown. Sharpen your wits, master the cards, and claim your place as the ultimate Poker champion!
+Poker Card Game v2 is an immersive and strategic Java card game designed to captivate players seeking thrilling challenges. Engage in intense rounds against a clever dealer, strategically betting chips and leveraging card values to secure victory. Experience the thrill of the shuffle, the rush of making critical decisions, and the excitement of outplaying the competition in this high-stakes, multi-round showdown. Sharpen your wits, master the cards, and claim your place as the ultimate Poker champion! As part of my project in school, i chose to create this game with a little extra touch to it. Hope you enjoy!
 
 
 
