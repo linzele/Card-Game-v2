@@ -6,10 +6,12 @@ Poker Card Game v2 is an immersive and strategic Java card game designed to capt
 
 # **Prerequisites**
 
+> [!IMPORTANT]\
 
-1.  **Java Development Kit (JDK)**: Ensure you have Java installed on your system. You can download and install it from the official Oracle Java website.
+> 1.  **Java Development Kit (JDK)**: Ensure you have Java installed on your system. You can download and install it from the official Oracle Java website.
 
-2.  **Install Visual Studio Code:** Download and install Visual Studio Code from its official website. VSC is available for Windows, macOS, and Linux.
+> 2.  **Install Visual Studio Code:** Download and install Visual Studio Code from its official website. VSC is available for Windows, macOS, and Linux.
+
 
 ## 
 1.  **Setup Environment:**
