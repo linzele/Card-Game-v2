@@ -6,7 +6,6 @@ Poker Card Game v2 is an immersive and strategic Java card game designed to capt
 
 # **Prerequisites**
 
-> [!IMPORTANT]\
 
 > 1.  **Java Development Kit (JDK)**: Ensure you have Java installed on your system. You can download and install it from the official Oracle Java website.
 
