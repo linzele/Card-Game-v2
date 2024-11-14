@@ -20,10 +20,10 @@ Poker Card Game v2 is an immersive and strategic Java card game designed to capt
     
     -   Install relevant extensions under Extensions on the left column to debug the code upon running, few available extensions are:
    ```bash
-		    Debugger for Java
+Debugger for Java
 ```
 ```bash
-		Extension Pack for java
+Extension Pack for java
 ```
   
 
@@ -31,7 +31,7 @@ Poker Card Game v2 is an immersive and strategic Java card game designed to capt
 
     -   Once the installation is successful, execute the Java program. Run the following Java program under src folder:
 ```bash
-		 GameModule.java
+GameModule.java
 ```        
    
 # **Graphical User Interface**
